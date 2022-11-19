@@ -1,0 +1,16 @@
+docker version
+
+systemctl status docker
+
+sudo apt install docker-compose
+
+sudo docker-compose up -d
+
+sudo docker container ls
+
+sudo docker ps
+
+sudo docker ps -a
+
+sudo docker exec -it php bash
+
